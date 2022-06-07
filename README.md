@@ -9,8 +9,8 @@ Para la conversion de tipo de datos, se basa en el estandar IEEE 754 cuyo detall
 ![image](https://user-images.githubusercontent.com/106831539/172471079-214ae651-c90a-4450-aede-b278c4b167ca.png)
 
 2.- Si ingresamos un numero en formato hex-float (control HEX-FLOAT IN#) este se convierte y se muestra su resultado
-![image](https://user-images.githubusercontent.com/106831539/172471272-98331989-555f-4f46-9cbe-cdcbd1905a74.png)
 
+![image](https://user-images.githubusercontent.com/106831539/172471272-98331989-555f-4f46-9cbe-cdcbd1905a74.png)
 
 3.- Analogamente, dado un numero en formato float, podemos obtener el DWord de 32 bit:
 
