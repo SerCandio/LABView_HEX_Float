@@ -15,7 +15,7 @@ Para la conversion de tipo de datos, se basa en el estandar IEEE 754 cuyo detall
 
 3.- Analogamente, dado un numero en formato float, podemos obtener el DWord de 32 bit:
 
-![image](https://user-images.githubusercontent.com/106831539/172471380-3184b4e6-a6ea-41f5-ae06-dba5ddd7e6fa.png)
+![image](https://user-images.githubusercontent.com/106831539/172472592-c44f17f4-53a9-416f-923b-cd95292dd7a4.png)
 
 4.- Para salir del programa , damos en el boton rojo EXIT
 
