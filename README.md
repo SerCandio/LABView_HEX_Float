@@ -4,6 +4,9 @@ Este paquete de software ejecutable hace la conversion de tipo de datos de tipo 
 # Descripcion
 Para la conversion de tipo de datos, se basa en el estandar IEEE 754 cuyo detalle se encuentra aqui : https://es.wikipedia.org/wiki/IEEE_754 , el mismo que se encuentra implementado en el GUI hecho en LABView de forma interactiva mediante una interfaz de usuario
 
+# Nota
+Puede ser de utilidad al leer sensores de tipo Modbus
+
 # Uso
 1.- Al ejecutar el programa se muestra la pantalla de inicio
 
